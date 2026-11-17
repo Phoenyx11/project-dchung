@@ -2,7 +2,7 @@
 
 This Habit Tracker-inator lets users track their most important habits and tasks. 
 It allows users to add, remove, and complete tasks (which can be completed one time on one
-day) and habits (which can be completed once per day of the week). 
+day) and habits (which can be completed once per day of the week). It also allows users to view daily and weekly summaries of their tasks and habits. 
 
 ## How to use
 
